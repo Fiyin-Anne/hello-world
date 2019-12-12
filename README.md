@@ -1,2 +1,2 @@
 # hello-world
-This is a project I will be doing guided by edX. 
+This is a mini project I will be working on guided by edX. 
